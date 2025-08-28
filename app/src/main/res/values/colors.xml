@@ -1,0 +1,36 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#6C63FF</color>
+    <color name="primary_dark">#5A52E0</color>
+    <color name="primary_light">#8A85FF</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_color">#FF6B6B</color>
+    <color name="accent_light">#FF8E8E</color>
+
+    <!-- Text Colors -->
+    <color name="text_color">#2D2D2D</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_grey">#F5F5F5</color>
+
+    <!-- Social Colors -->
+    <color name="google_color">#DB4437</color>
+    <color name="facebook_color">#4267B2</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_color">@color/bottom_nav_selector</color>
+
+    <!-- Standard Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Status Colors -->
+    <color name="success_color">#4CAF50</color>
+    <color name="error_color">#F44336</color>
+    <color name="warning_color">#FF9800</color>
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Lovent</string>
+    <string name="app_logo">App Logo</string>
+    <string name="version_info">Version 1.0.0</string>
+
+    <!-- Splash Screen -->
+    <string name="loading">Loading...</string>
+    <string name="loading_text">Yükleniyor, lütfen bekleyin...</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_back">Hoş Geldiniz!</string>
+    <string name="login_subtitle">Hesabınıza giriş yapın</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş Yap</string>
+    <string name="forgot_password">Şifremi Unuttum?</string>
+    <string name="remember_me">Beni Hatırla</string>
+    <string name="or">YA DA</string>
+    <string name="login_with_google">Google ile Giriş</string>
+    <string name="login_with_facebook">Facebook ile Giriş</string>
+    <string name="dont_have_account">Hesabınız yok mu?</string>
+    <string name="register">Kayıt Ol</string>
+
+    <!-- Register Screen -->
+    <string name="create_account">Hesap Oluştur</string>
+    <string name="register_subtitle">Yeni hesap oluşturun</string>
+    <string name="full_name">Ad Soyad</string>
+    <string name="confirm_password">Şifre Onayı</string>
+    <string name="register_with_google">Google ile Kayıt</string>
+    <string name="register_with_facebook">Facebook ile Kayıt</string>
+    <string name="already_have_account">Zaten hesabınız var mı?</string>
+    <string name="back">Geri</string>
+
+    <!-- Form Validations -->
+    <string name="email_required">E-posta adresi gerekli</string>
+    <string name="invalid_email">Geçerli bir e-posta adresi girin</string>
+    <string name="password_required">Şifre gerekli</string>
+    <string name="password_too_short">Şifre en az 6 karakter olmalı</string>
+    <string name="passwords_not_match">Şifreler eşleşmiyor</string>
+    <string name="name_required">Ad Soyad gerekli</string>
+
+    <!-- API Messages -->
+    <string name="login_success">Giriş başarılı!</string>
+    <string name="login_failed">Giriş başarısız</string>
+    <string name="register_success">Kayıt başarılı! Giriş yapabilirsiniz.</string>
+    <string name="register_failed">Kayıt başarısız</string>
+    <string name="network_error">Bağlantı hatası</string>
+
+    <!-- Common -->
+    <string name="loading_please_wait">Lütfen bekleyin...</string>
+    <string name="error">Hata</string>
+    <string name="success">Başarılı</string>
+    <string name="cancel">İptal</string>
+    <string name="ok">Tamam</string>
+</resources>
